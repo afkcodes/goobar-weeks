@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Goobar2</string>
+    <string name="zip">Enter your zipcode</string>
+    <string name="zipHint">Enter zipcode</string>
+    <string name="submit">Submit Zipcode</string>
+    <string name="location_icon">location_icon</string>
+</resources>
